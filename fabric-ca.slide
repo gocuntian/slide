@@ -1,0 +1,15 @@
+Fabric CA User’s Guide
+
+CunTian.Xing
+xingcuntian@qq.com
+http://github.com/gocuntian
+
+* Formatting
+
+- Tab indent
+- No ;
+
+ type T struct {
+    name string // name of the object
+    value int // its value
+ }
