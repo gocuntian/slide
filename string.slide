@@ -5,7 +5,8 @@ xingcuntian@qq.com
 http://github.com/gocuntian
 
 * String类型的内部结构
-- 对于标准的Go编译器，任何字符串类型的内部结构都声明为：
+
+- 对于标准的Go编译器，任何字符串类型的内部结构都声明为 ;
 
  type _string struct {
 	elements *byte // underlying bytes
